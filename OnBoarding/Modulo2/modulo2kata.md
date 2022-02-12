@@ -4,13 +4,13 @@ Crea un entorno virtual mediante venv
 
 python -m venv C:\Users\JMLS15\Desktop\LAUNCHX\EntornoVirtual env
 
-INSERT IMAGE 1
+![Imagen1](https://raw.githubusercontent.com/JesusLizarraga5/LaunchX/main/OnBoarding/images/image1.jpg)
 
 * Ejecuta el comando para activar el entorno virtual: source env/bin/activate
 
 C:\Users\JMLS15\Desktop\LAUNCHX\EntornoVirtual\Scripts\activate
 
-INSERT IMAGE 2
+![Imagen2](https://raw.githubusercontent.com/JesusLizarraga5/LaunchX/main/OnBoarding/images/image2.jpg)
 
 Instalar una biblioteca
 
@@ -35,10 +35,10 @@ pip freeze
 python-dateutil==2.8.2
 six==1.16.0
 
-INSERT IMAGE 3
+![Imagen3](https://raw.githubusercontent.com/JesusLizarraga5/LaunchX/main/OnBoarding/images/image3.jpg)
 
 Desactivar un entorno virtual
 
 deactivate
 
-INSERT IMAGE 4
+![Imagen4](https://raw.githubusercontent.com/JesusLizarraga5/LaunchX/main/OnBoarding/images/image4.jpg)
